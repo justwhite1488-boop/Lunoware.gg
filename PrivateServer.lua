@@ -1,1 +1,1 @@
-return `dot`
+return `goon`
